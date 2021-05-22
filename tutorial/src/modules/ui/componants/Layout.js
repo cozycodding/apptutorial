@@ -3,7 +3,7 @@ import { CssBaseline, useMediaQuery } from '@material-ui/core'
 import { createMuiTheme, ThemeProvider } from '@material-ui/core/styles'
 import Header from './Header'
 import Content from './Contents'
-import Footer from '.Footer'
+import Footer from './Footer'
 
 export default function Layout() {
   const theme = createMuiTheme({
