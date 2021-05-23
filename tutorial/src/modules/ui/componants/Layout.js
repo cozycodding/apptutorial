@@ -9,7 +9,7 @@ export default function Layout() {
   const theme = createMuiTheme({
     palette: {
       primary: {
-        main: '#1abc9c',
+        main: '#212F3C',
       },
     },
   })
